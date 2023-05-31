@@ -1,4 +1,1 @@
-let userLogin = [{
-//   nameOfUser: '',
-//   pinOfUser: ''
-// }];
+1
